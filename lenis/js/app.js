@@ -28,6 +28,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 // console.log("index = " + suma );
 // console.log("background = " + color + "." + " " + volume + " " + volume1);
 // console.log( volume);
